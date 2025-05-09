@@ -15,7 +15,7 @@ def remove_elements(list_to_remove_elements):
 		del nuevalista1 [0]
 
 
-	elif len(lista)>=1 and len(lista)<=3:
+	elif len(lista)>=1 and len(lista)<=4:
 		del nuevalista1 [0] 
 
 	return nuevalista1
